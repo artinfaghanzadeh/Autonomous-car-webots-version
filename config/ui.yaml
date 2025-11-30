@@ -1,0 +1,29 @@
+lighting:
+  dark_threshold: 39.0
+  clahe_clip_limit: 4.0
+  clahe_tile_grid: 4
+
+lane_filter:
+  gaussian_ksize: 9
+  gaussian_sigma: 2.0
+  median_ksize: 5
+
+canny:
+  # low: 50
+  low: 60
+  high: 140
+  morph_kernel: 5
+
+lane_smoothing:
+  # alpha_midpoints: 0.7
+  alpha_midpoints: 0.6
+
+steering:
+  # gain: 0.002
+  gain: 0.0016
+  # smooth: 0.7
+  smooth: 0.8
+
+speed:
+  base_speed: 50
+  lost_factor: 0.4

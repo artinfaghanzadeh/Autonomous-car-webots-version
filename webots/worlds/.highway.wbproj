@@ -7,5 +7,5 @@ centralWidgetVisible: 1
 orthographicViewHeight: 1
 textFiles: 0 "protos/CurvedRoadSegment.proto"
 consoles: Console:All:All
-renderingDevicePerspectives: vehicle:camera;1;0.246889;0.603855;0.702761
+renderingDevicePerspectives: vehicle:camera;1;0.489077;0.593521;0.628813
 renderingDevicePerspectives: vehicle:display;0;1;0;0

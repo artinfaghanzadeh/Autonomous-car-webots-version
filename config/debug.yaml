@@ -1,0 +1,7 @@
+debug:
+  enable_camera_overlay: true
+  enable_lane_overlay: true
+  enable_logs: true
+  enable_cv_window: true
+  show_sensor_data: true
+  record_data: false

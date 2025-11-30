@@ -1,0 +1,12 @@
+camera:
+  name: "camera"
+  width: 1280
+  height: 720
+  crop_ratio_bottom: 0.625
+
+vehicle:
+  car_center_x: 560
+  max_steer_rad: 0.5
+  max_speed: 50
+  wheel_radius_m: 0.35
+
